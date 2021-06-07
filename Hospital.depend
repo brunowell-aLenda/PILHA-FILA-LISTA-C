@@ -1,0 +1,267 @@
+# depslib dependency file v1.0
+1579283728 source:c:\users\bruno well\desktop\hospital\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+
+1579282725 c:\users\bruno well\desktop\hospital\lista.h
+
+1575380149 c:\users\bruno well\desktop\hospital\pilha.h
+
+1579282588 c:\users\bruno well\desktop\hospital\fila.h
+
+1577506705 source:c:\users\bruno well\desktop\hospital\lista.c
+
+1575380032 source:c:\users\bruno well\desktop\hospital\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+
+1579284140 source:c:\users\bruno well\desktop\hospital\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"paciente.h"
+
+1579282567 c:\users\bruno well\desktop\hospital\paciente.h
+
+1579283728 source:c:\users\bruno well\desktop\hospital\paciente.c
+	<stdio.h>
+	<stdlib.h>
+	"paciente.h"
+
+1579295421 source:c:\users\aluno\desktop\hospital\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+
+1579282725 c:\users\aluno\desktop\hospital\lista.h
+
+1575380149 c:\users\aluno\desktop\hospital\pilha.h
+
+1579282588 c:\users\aluno\desktop\hospital\fila.h
+
+1579295583 source:c:\users\aluno\desktop\hospital\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+
+1579295642 source:c:\users\aluno\desktop\hospital\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+	"paciente.h"
+
+1579292361 c:\users\aluno\desktop\hospital\paciente.h
+
+1579295583 source:c:\users\aluno\desktop\hospital\paciente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"paciente.h"
+
+1579295421 source:c:\users\aluno\desktop\hospital\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+
+1580513779 source:c:\users\flavi\desktop\hospital\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+	"paciente.h"
+
+1580601309 c:\users\flavi\desktop\hospital\lista.h
+
+1580513406 c:\users\flavi\desktop\hospital\pilha.h
+
+1580513406 c:\users\flavi\desktop\hospital\fila.h
+
+1580513181 source:c:\users\flavi\desktop\hospital\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+	"paciente.h"
+
+1580413784 source:c:\users\flavi\desktop\hospital\paciente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"paciente.h"
+	"fila.h"
+	"pilha.h"
+	"lista.h"
+
+1580513406 c:\users\flavi\desktop\hospital\paciente.h
+
+1580513406 source:c:\users\flavi\desktop\hospital\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+	<windows.h>
+	"paciente.h"
+
+1580513166 source:c:\users\flavi\desktop\hospital\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+	"paciente.h"
+
+1579378978 source:c:\users\flavi\desktop\hospital\testes.c
+	<stdio.h>
+	<stdlib.h>
+
+1579394244 c:\users\flavi\desktop\hospital\ordenar.h
+
+1579400549 source:c:\users\flavi\desktop\hospital\ordenar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fila.h"
+
+1579988802 source:c:\users\flavi\desktop\hospital\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+	"paciente.h"
+
+1580513779 source:c:\users\natália vitória\documents\2º período\ed1 robson locatelli\projeto\projetofinal\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+	"paciente.h"
+
+1580601309 c:\users\natália vitória\documents\2º período\ed1 robson locatelli\projeto\projetofinal\lista.h
+
+1580513406 c:\users\natália vitória\documents\2º período\ed1 robson locatelli\projeto\projetofinal\pilha.h
+
+1580513406 c:\users\natália vitória\documents\2º período\ed1 robson locatelli\projeto\projetofinal\fila.h
+
+1580513406 c:\users\natália vitória\documents\2º período\ed1 robson locatelli\projeto\projetofinal\paciente.h
+
+1580601309 source:c:\users\natália vitória\documents\2º período\ed1 robson locatelli\projeto\projetofinal\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+	"paciente.h"
+
+1580601309 source:c:\users\natália vitória\documents\2º período\ed1 robson locatelli\projeto\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+	"paciente.h"
+
+1580413784 source:c:\users\natália vitória\documents\2º período\ed1 robson locatelli\projeto\projetofinal\paciente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"paciente.h"
+	"fila.h"
+	"pilha.h"
+	"lista.h"
+
+1580513406 source:c:\users\natália vitória\documents\2º período\ed1 robson locatelli\projeto\projetofinal\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+	<windows.h>
+	"paciente.h"
+
+1617142265 source:c:\users\acer\documents\2º período\ed1 robson locatelli\projeto\projetofinal\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+	"paciente.h"
+
+1617142265 c:\users\acer\documents\2º período\ed1 robson locatelli\projeto\projetofinal\lista.h
+
+1617142265 c:\users\acer\documents\2º período\ed1 robson locatelli\projeto\projetofinal\pilha.h
+
+1617142265 c:\users\acer\documents\2º período\ed1 robson locatelli\projeto\projetofinal\fila.h
+
+1617142265 c:\users\acer\documents\2º período\ed1 robson locatelli\projeto\projetofinal\paciente.h
+
+1617142265 source:c:\users\acer\documents\2º período\ed1 robson locatelli\projeto\projetofinal\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+	"paciente.h"
+
+1622595640 source:c:\users\acer\documents\2º período\ed1 robson locatelli\projeto\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+	"paciente.h"
+
+1617142265 source:c:\users\acer\documents\2º período\ed1 robson locatelli\projeto\projetofinal\paciente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"paciente.h"
+	"fila.h"
+	"pilha.h"
+	"lista.h"
+
+1617142265 source:c:\users\acer\documents\2º período\ed1 robson locatelli\projeto\projetofinal\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+	<windows.h>
+	"paciente.h"
+
